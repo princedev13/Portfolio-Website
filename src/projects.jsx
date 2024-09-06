@@ -8,6 +8,10 @@ function Projects () {
                 <img class="project-img" src="src/assets/dead egos screenshot 1.png"></img>
                 <h3>E-Commerce Website</h3>
             </div>
+
+            <div class="projects-desc1">
+                <h2>description</h2>
+            </div>
         </>
     );
 
