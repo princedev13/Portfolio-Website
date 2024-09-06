@@ -10,10 +10,13 @@ function Projects () {
             </div>
 
             <div class="projects-desc1">
-                <h3>-Developed a full-stack web application
-                    -Integrated Stripe API
-                    -Designed and implemented an interactive character creator
-                    -Configured a robust database to manage user accounts and store purchase history for an enhanced user experience and data tracking.
+                <h3>
+                    <ul>
+                        <li>-Developed a full-stack web application</li>
+                        <li>-Integrated Stripe API</li>
+                        <li>-Designed and implemented an interactive character creator</li>
+                        <li>-Configured a robust database to manage user accounts and store purchase history for an enhanced user experience and data tracking.</li>
+                    </ul>
                 </h3>
             </div>
         </>

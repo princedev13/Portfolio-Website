@@ -19,6 +19,14 @@ function Skills() {
                         <img src="src/assets/icons8-react-40.png"></img>
                         <h3>React</h3>
                     </div>
+                    <div class="skills-java">
+                        <img src="src/assets/icons8-java-144.png"></img>
+                        <h3>Java</h3>
+                    </div>
+                    <div class="skills-git">
+                        <img src="src/assets/icons8-git-144.png"></img>
+                        <h3>Git</h3>
+                    </div>
                 </div>
         </>
 
