@@ -1,0 +1,125 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 2rem;
+
+  color-scheme: light dark;
+  color: whitesmoke;
+  background-color: whitesmoke;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  justify-content: center;
+  background-color: #2A2B2E;
+  /*background-image: linear-gradient(to bottom, whitesmoke 0%, whitesmoke 50%, #2A2B2E 50%, #2A2B2E 0%);*/
+}
+
+h1 {
+ font-family: "Inter Black";
+ font-size: 5rem;
+}
+
+h2 {
+
+}
+
+h3 {
+  font-family: "Inter Light";
+}
+
+.header-text {
+  color: #2A2B2E;
+  background-color: whitesmoke;
+  height: 30rem;
+  padding-left: 2rem;
+}
+
+#header-text1 {
+  color: #2A2B2E;
+  margin-top: 6rem;
+  margin-bottom: -1.6rem;
+  padding-bottom: 0;
+}
+
+#header-text2 {
+  color: #2A2B2E;
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+
+#header-text3 {
+  color: #2A2B2E;
+  margin-top: 0;
+  font-size: 2rem;
+}
+
+#header-text4 {
+  color: #2A2B2E;
+  width: 50%;
+}
+
+.nav-container {
+  position: fixed;
+  background-color: #2A2B2E;
+  top: 0;
+  left: 0;
+  height: 5%;
+  width: 100%;
+}
+
+.nav-list {
+  display: flex;
+  position: fixed;
+  right: 10rem;
+}
+
+.nav-items a{
+  text-decoration: none;
+  color: whitesmoke;
+  margin-left: 3rem;
+}
+
+.skills-bg {
+  background-color: #2A2B2E;
+}
+
+.skills-header {
+  font-size: 2.5rem;
+  color: whitesmoke;
+  text-align: center;
+}
+
+.skills-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  height: 6rem;
+  width: 100%;
+  gap: 10rem;
+}
+
+.skills-list img {
+  width: 5rem;
+  height: 5rem;
+}
+
+.projects-header {
+  font-size: 2.5rem;
+  text-align: center;
+  padding-top: 3rem;
+}
+
+.project-bg {
+  background-color: #2A2B2E;
+}
+
+.project-img {
+  padding-left: 2rem;
+  width: 50rem;
+}
